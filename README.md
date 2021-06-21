@@ -1,4 +1,4 @@
-# track_expenses
+# Expense Manager
 
 A new Flutter project.
 
